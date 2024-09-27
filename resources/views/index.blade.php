@@ -520,7 +520,7 @@
                         <ul class="list-unstyled mb-md-4 mb-lg-0">
                             <li class="mb-3"><a class="text-700 text-decoration-none" href="#!"></a>
                             </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Terms</a></li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Darell</a></li>
                             <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Security</a>
                             </li>
                         </ul>
