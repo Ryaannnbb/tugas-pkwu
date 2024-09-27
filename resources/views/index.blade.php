@@ -465,7 +465,8 @@
                     <div class="col-12">
                         <div class="card shadow h-100 py-5">
                             <div class="card-body text-center">
-                                <h1 class="fw-semi-bold mb-4">Masa Depan &nbsp;<span class="text-success">Investasi Pertanian</span> &nbsp; adalah Zou</h1><a class="btn btn-lg btn-success px-6" href="#" role="button">Investasi Sekarang</a>
+                                <h1 class="fw-semi-bold mb-4">Masa Depan &nbsp;<span class="text-success">Investasi Pertanian</span> &nbsp; adalah FryPen</h1>
+                                <a class="btn btn-lg btn-success px-6" role="button" id="investButton">Investasi Sekarang</a>
                             </div>
                         </div>
                     </div>
@@ -554,6 +555,35 @@
     <!-- ===============================================-->
     <!--    JavaScripts-->
     <!-- ===============================================-->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const investButton = document.getElementById('investButton');
+            const hasInvested = false;
+
+            investButton.addEventListener('click', function(event) {
+                event.preventDefault();
+                if (hasInvested) {
+                    Swal.fire({
+                        title: 'Peringatan!',
+                        text: 'Anda sudah berinvestasi.',
+                        icon: 'warning',
+                        confirmButtonText: 'OK'
+                    });
+                } else {
+                    Swal.fire({
+                        title: 'Berhasil!',
+                        text: 'Anda berhasil mendaftar untuk investasi.',
+                        icon: 'success',
+                        timer: 3000,
+                        timerProgressBar: true,
+                        showConfirmButton: false
+                    });
+                    hasInvested = true;
+                }
+            });
+        });
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="vendors/@popperjs/popper.min.js"></script>
     <script src="vendors/bootstrap/bootstrap.min.js"></script>
     <script src="vendors/is/is.min.js"></script>
