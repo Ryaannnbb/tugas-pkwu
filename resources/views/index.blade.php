@@ -291,10 +291,8 @@
                                     <div class="col-md-4 mb-5 mb-md-0">
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
-                                                <div class="align-items-xl-center d-block d-xl-flex px-3"><img
-                                                        class="img-fluid me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-1.png') }}" width="50"
-                                                        alt="" />
+                                                <div class="align-items-xl-center d-block d-xl-flex px-3">
+                                                    <img class="img-fluid me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-1.png') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Fernando Soler</h5>
                                                         <p class="fw-normal text-black">Insinyur Telekomunikasi</p>
@@ -307,10 +305,8 @@
                                     <div class="col-md-4 mb-5 mb-md-0">
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
-                                                <div class="align-items-xl-center d-block d-xl-flex px-3"><img
-                                                        class="img-fluid me-3 me-md-2 me-lg-3"
-                                                        src="assets/img/gallery/user-2.png" width="50"
-                                                        alt="" />
+                                                <div class="align-items-xl-center d-block d-xl-flex px-3">
+                                                    <img class="img-fluid me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-2.png') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Ilone Pickford</h5>
                                                         <p class="fw-normal text-black">Kepala Grup Agrogofund</p>
@@ -323,10 +319,8 @@
                                     <div class="col-md-4 mb-5 mb-md-0">
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
-                                                <div class="align-items-xl-center d-block d-xl-flex px-3"><img
-                                                        class="img-fluid me-3 me-md-2 me-lg-3"
-                                                        src="assets/img/gallery/user-3.png" width="50"
-                                                        alt="" />
+                                                <div class="align-items-xl-center d-block d-xl-flex px-3">
+                                                    <img class="img-fluid me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-3.png') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Ed O’Brien</h5>
                                                         <p class="fw-normal text-black">Herbalist</p>
@@ -343,10 +337,8 @@
                                     <div class="col-md-4 mb-5 mb-md-0">
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
-                                                <div class="align-items-xl-center d-block d-xl-flex px-3"><img
-                                                        class="img-fluid rounded-circle me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-4.webp') }}" width="50"
-                                                        alt="" />
+                                                <div class="align-items-xl-center d-block d-xl-flex px-3">
+                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-4.webp') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Carry Ana</h5>
                                                         <p class="fw-normal text-black">Insinyur Telekomunikasi</p>
@@ -359,10 +351,8 @@
                                     <div class="col-md-4 mb-5 mb-md-0">
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
-                                                <div class="align-items-xl-center rounded-circle d-block d-xl-flex px-3"><img
-                                                        class="img-fluid rounded-circle me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-5.webp') }}" width="50"
-                                                        alt="" />
+                                                <div class="align-items-xl-center rounded-circle d-block d-xl-flex px-3">
+                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-5.webp') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Stanly Drinkwater</h5>
                                                         <p class="fw-normal text-black">Kepala Grup Agrogofund</p>
@@ -376,9 +366,7 @@
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
                                                 <div class="align-items-xl-center d-block d-xl-flex px-3">
-                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-6.webp') }}" width="50"
-                                                        alt="" />
+                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-6.webp') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Josef Stravinsky</h5>
                                                         <p class="fw-normal text-black">Herbalist</p>
@@ -396,15 +384,13 @@
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
                                                 <div class="align-items-xl-center d-block d-xl-flex px-3">
-                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-7.webp') }}" width="50"
-                                                        alt="" />
+                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-7.webp') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Igor Borvibson</h5>
                                                         <p class="fw-normal text-black">Insinyur Telekomunikasi</p>
                                                     </div>
                                                 </div>
-                                                <p class="mb-0 px-3 px-md-2 px-xxl-3">"Saya sangat senang dengan platform ini. Investasi saya telah memberikan hasil yang luar biasa dan saya merasa lebih dekat dengan para petani."</p>
+                                                <p class="mb-0 px-3 px-md-2 px-xxl-3">"Platform ini sangat membantu saya dalam memahami investasi agribisnis. Saya merasa lebih terhubung dengan para petani dan proyek mereka."</p>
                                             </div>
                                         </div>
                                     </div>
@@ -412,9 +398,7 @@
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
                                                 <div class="align-items-xl-center d-block d-xl-flex px-3">
-                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-8.webp') }}" width="50"
-                                                        alt="" />
+                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-8.webp') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Katerina Karenin</h5>
                                                         <p class="fw-normal text-black">Kepala Grup Agrogofund</p>
@@ -428,9 +412,7 @@
                                         <div class="card h-100 shadow">
                                             <div class="card-body my-3">
                                                 <div class="align-items-xl-center d-block d-xl-flex px-3">
-                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3"
-                                                        src="{{ asset('assets/img/gallery/user-9.webp') }}" width="50"
-                                                        alt="" />
+                                                    <img class="img-fluid rounded-circle me-3 me-md-2 me-lg-3" src="{{ asset('assets/img/gallery/user-9.webp') }}" width="50" alt="" />
                                                     <div class="flex-1 align-items-center pt-2">
                                                         <h5 class="mb-0 fw-bold text-success">Michael Jenkins</h5>
                                                         <p class="fw-normal text-black">Herbalist</p>
@@ -481,71 +463,36 @@
             </div>
             <!--/.bg-holder-->
             <div class="container">
-                <div class="row justify-content-lg-between min-vh-75" style="padding-top:21rem">
-                    <div class="col-6 col-sm-4 col-lg-auto mb-3">
-                        <h6 class="mb-3 text-1000 fw-semi-bold">COMPANY </h6>
-                        <ul class="list-unstyled mb-md-4 mb-lg-0">
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">About Us</a>
-                            </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Team</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Careers</a>
-                            </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Contact</a>
-                            </li>
-                        </ul>
+                <div class="row justify-content-center min-vh-75" style="padding-top:21rem">
+                    <div class="col-12 text-center mb-3">
+                        <h3 class="mb-3 text-1000 fw-semi-bold">Nama Kelompok</h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-auto mb-3" id="contact">
-                        <h6 class="mb-3 text-1000 fw-semi-bold">INVEST </h6>
+                    <div class="col-6 col-sm-4 col-lg-auto mb-3">
+                        <h6 class="mb-3 text-1000 fw-semi-bold">Anggota 1</h6>
                         <ul class="list-unstyled mb-md-4 mb-lg-0">
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Features</a>
-                            </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">How it
-                                    works</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Pricing</a>
-                            </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Login</a></li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Blitaryan ENdi Pratama</a></li>
                         </ul>
                     </div>
                     <div class="col-6 col-sm-4 col-lg-auto mb-3">
-                        <h6 class="mb-3 text-1000 fw-semi-bold">LEGAL </h6>
+                        <h6 class="mb-3 text-1000 fw-semi-bold">Anggota 2</h6>
                         <ul class="list-unstyled mb-md-4 mb-lg-0">
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Privacy</a>
-                            </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Terms</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Security</a>
-                            </li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Dimas Auliya Surya Nugraha</a></li>
                         </ul>
                     </div>
                     <div class="col-6 col-sm-4 col-lg-auto mb-3">
-                        <h6 class="mb-3 text-1000 fw-semi-bold">Nama Kelompok </h6>
+                        <h6 class="mb-3 text-1000 fw-semi-bold">Anggota 3</h6>
                         <ul class="list-unstyled mb-md-4 mb-lg-0">
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!"></a>
-                            </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Ibrahim Darell R.N</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Blitaryan Endi P</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Heni Yulia L</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Dimas Aulia S.N</a></li>
-                            </li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Darell Raditya Nugraha</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-6 col-sm-4 col-lg-auto mb-3">
+                        <h6 class="mb-3 text-1000 fw-semi-bold">Anggota 4</h6>
+                        <ul class="list-unstyled mb-md-4 mb-lg-0">
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Heni Yulia Lestari</a></li>
                         </ul>
                     </div>
                 </div>
                 <hr class="text-300 mb-0" />
-                <div class="row flex-center py-5">
-                    <div class="col-12 col-sm-8 col-md-6 text-center text-md-start"> <a class="text-decoration-none"
-                            href="#"><img class="d-inline-block align-top img-fluid"
-                                src="assets/img/gallery/logo-icon.png" alt="" width="40" /><span
-                                class="text-theme font-monospace fs-3 ps-2">Zou</span></a></div>
-                    <div class="col-12 col-sm-8 col-md-6">
-                        <p class="fs--1 text-dark my-2 text-center text-md-end">&copy; This template is made
-                            with&nbsp;<svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg"
-                                width="16" height="16" fill="#76C279" viewBox="0 0 16 16">
-                                <path
-                                    d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z">
-                                </path>
-                            </svg>&nbsp;by&nbsp;<a class="text-dark" href="https://themewagon.com/"
-                                target="_blank">ThemeWagon </a></p>
-                    </div>
-                </div>
             </div>
         </section>
     </main><!-- ===============================================-->
