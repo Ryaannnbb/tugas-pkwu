@@ -37,7 +37,7 @@
             data-navbar-on-scroll="data-navbar-on-scroll">
             <div class="container"><a class="navbar-brand" href="index.html"><img
                         class="d-inline-block align-top img-fluid" src="assets/img/gallery/logo-frypen.png" alt=""
-                        width="50" /><span class="text-theme font-monospace fs-4 ps-2">Frypen</span></a><button
+                        width="50" /><span class="text-theme font-monospace fs-4 ps-2">FryPen</span></a><button
                     class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation"><span
