@@ -36,8 +36,8 @@
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 bg-light opacity-85"
             data-navbar-on-scroll="data-navbar-on-scroll">
             <div class="container"><a class="navbar-brand" href="index.html"><img
-                        class="d-inline-block align-top img-fluid" src="assets/img/gallery/logo-icon.png" alt=""
-                        width="50" /><span class="text-theme font-monospace fs-4 ps-2">Zou</span></a><button
+                        class="d-inline-block align-top img-fluid" src="assets/img/gallery/logo-frypen.png" alt=""
+                        width="50" /><span class="text-theme font-monospace fs-4 ps-2">Frypen</span></a><button
                     class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation"><span
@@ -521,8 +521,10 @@
                         <ul class="list-unstyled mb-md-4 mb-lg-0">
                             <li class="mb-3"><a class="text-700 text-decoration-none" href="#!"></a>
                             </li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Darell</a></li>
-                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Security</a>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Ibrahim Darell R.N</a></li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Blitaryan Endi P</a></li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Heni Yulia L</a></li>
+                            <li class="mb-3"><a class="text-700 text-decoration-none" href="#!">Dimas Aulia S.N</a></li>
                             </li>
                         </ul>
                     </div>
